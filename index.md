@@ -8,4 +8,4 @@
 - **bold**
 - _Italic_
 
-.[index](https://drsugimoto.github.io/)
+[index](https://drsugimoto.github.io/)
